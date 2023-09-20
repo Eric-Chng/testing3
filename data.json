@@ -2,12 +2,12 @@
   "game": "flashcard",
     "data": [
       {
-        "id": "1"
+        "id": "1",
         "term": "hi",
         "translation": "你好"
       },
       {
-        "id": "2"
+        "id": "2",
         "term": "bye",
         "translation": "笨蛋",
         "favorite": true
