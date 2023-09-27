@@ -11,6 +11,23 @@
         "term": "bye",
         "translation": "笨蛋",
         "favorite": true
+      },
+      {
+        "id": "3",
+        "term": "welcome",
+        "translation": "歡迎",
+        "favorite": true
+     },
+     {
+        "id": "4",
+        "term": "morning",
+        "translation": "早晨",
+        "favorite": true
+      },
+     {
+        "id": "5",
+        "term": "night",
+        "translation": "夜晚"
       }
     ]
 }
