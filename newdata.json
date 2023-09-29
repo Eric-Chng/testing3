@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lesson Plan 1",
+    "lessonData": 
+    [
+      {
+        "gameType": "flashcard",
+        "term": "side1",
+        "definition": "side2",
+      },
+      {
+        "gameType": "quiz",
+        "question": "why?",
+        "optionA": "sad",
+        "optionB": "happy",
+        "optionC": "angry",
+        "optionD": "anxious",
+        "correct": "optionB",
+      }
+    ]
+  },
+]
