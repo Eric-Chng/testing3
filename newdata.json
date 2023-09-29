@@ -1,13 +1,12 @@
 [
   {
     "name": "Lesson Plan 1",
-    "lessonData": 
-    [
+    "lessonData": [
       {
         "gameType": "flashcard",
         "id": "1",
         "term": "side1",
-        "translation": "side2",
+        "translation": "side2"
       },
       {
         "gameType": "quiz",
@@ -17,8 +16,8 @@
         "optionB": "happy",
         "optionC": "angry",
         "optionD": "anxious",
-        "correct": "optionB",
+        "correct": "optionB"
       }
     ]
-  },
+  }
 ]
