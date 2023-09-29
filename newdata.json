@@ -7,7 +7,7 @@
         "gameType": "flashcard",
         "id": "1",
         "term": "side1",
-        "definition": "side2",
+        "translation": "side2",
       },
       {
         "gameType": "quiz",
