@@ -5,11 +5,13 @@
     [
       {
         "gameType": "flashcard",
+        "id": "1",
         "term": "side1",
         "definition": "side2",
       },
       {
         "gameType": "quiz",
+        "id": "2",
         "question": "why?",
         "optionA": "sad",
         "optionB": "happy",
