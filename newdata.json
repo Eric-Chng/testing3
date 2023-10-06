@@ -3,12 +3,10 @@
     "name": "Lesson Plan 1",
     "lessonData": [
       {
-        "gameType": "flashcard"
-        "game": {
-          "id": "1",
-          "term": "side1",
-          "translation": "side2"
-        }
+        "gameType": "flashcard",
+        "id": "1",
+        "term": "side1",
+        "translation": "side2"
       },
       {
         "gameType": "quiz",
