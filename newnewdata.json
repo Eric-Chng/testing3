@@ -23,5 +23,30 @@
         }
       }
     ]
+  },
+  {
+    "name": "Cool Lesson Plan 2",
+    "lessonData": [
+      {
+        "gameType": "flashcard",
+        "id": "1",
+        "gameData": {
+          "term": "cool side1",
+          "translation": "cool side2"
+        }
+      },
+      {
+        "gameType": "quiz",
+        "id": "2",
+        "gameData": {
+          "question": "why but cool?",
+          "optionA": "cool1",
+          "optionB": "cool2",
+          "optionC": "cool3",
+          "optionD": "cool4",
+          "correct": "optionB"
+        }
+      }
+    ]
   }
 ]
