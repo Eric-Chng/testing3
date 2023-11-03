@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Lesson Plan 1",
+    "lessonData": [
+      {
+        "gameType": "flashcard",
+        "id": "1",
+        "gameData": {
+          "term": "side1",
+          "translation": "side2"
+        }
+      },
+      {
+        "gameType": "quiz",
+        "id": "2",
+        "gameData": {
+          "question": "why?",
+          "optionA": "sad",
+          "optionB": "happy",
+          "optionC": "angry",
+          "optionD": "anxious",
+          "correct": "optionB"
+        }
+      },
+      {
+        "gameType": "sentence",
+        "id": "3",
+        "gameData": {
+          "prompt": "the quick fox",
+          "answer": "el fox rapido",
+          "options": ["el", "fox", "rapido"]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cool Lesson Plan 2",
+    "lessonData": [
+      {
+        "gameType": "flashcard",
+        "id": "1",
+        "gameData": {
+          "term": "cool side1",
+          "translation": "cool side2"
+        }
+      },
+      {
+        "gameType": "quiz",
+        "id": "2",
+        "gameData": {
+          "question": "why but cool?",
+          "optionA": "cool1",
+          "optionB": "cool2",
+          "optionC": "cool3",
+          "optionD": "cool4",
+          "correct": "optionB"
+        }
+      },
+      {
+        "gameType": "sentence",
+        "id": "3",
+        "gameData": {
+          "prompt": "cool the quick fox",
+          "answer": "cool el fox rapido",
+          "options": ["cool el", "fox", "rapido"]
+        }
+      }
+    ]
+  }
+]
